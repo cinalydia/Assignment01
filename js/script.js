@@ -52,8 +52,11 @@ window.console.log("500 + 200 is " + x + "." + " Yes, that's " + y + ", my frien
 
 //STEP7
 /*var name = "Sara";
-window.console.log("Her name is " + not + " "+ name + ".");
-var not = "not";*/
+window.console.log("Her name is " + not + " " + name + ".");
+var not = "not";
+
+window.console.log(nope);
+var nope = "not";*/
 
 //STEP8
 /*No.
